@@ -35,3 +35,32 @@ body{
     margin-left: 50px;
     margin-top: 50px;
 }
+
+.head1{
+    font-size: 40px;
+    margin-bottom:10px ;
+}
+.head2{
+    font-size: 25px;
+    color: rgb(109, 109, 202);
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+.btn{
+    margin-top: 20px;
+}
+.btn button{
+    margin-right:30px ;
+    color: black;
+    width: 120px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 20px;
+    border-radius:40px 10px ;
+    border: none;
+}
+.btn button:hover{
+    border:3px solid white;
+    color: white;
+    background: transparent;
+}
